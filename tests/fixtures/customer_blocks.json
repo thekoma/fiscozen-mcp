@@ -1,0 +1,19 @@
+{
+ "response": {
+  "block_documents_creation": false,
+  "block_documents_edit": false,
+  "block_documents_sending": false,
+  "message_create": {
+   "title": "",
+   "content": ""
+  },
+  "message_edit": {
+   "title": "",
+   "content": ""
+  },
+  "message_send": {
+   "title": "",
+   "content": ""
+  }
+ }
+}

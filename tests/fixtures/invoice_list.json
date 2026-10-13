@@ -1,0 +1,219 @@
+{
+ "response": {
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+   {
+    "id": 3001,
+    "data": {
+     "rows": [
+      {
+       "key": "row1",
+       "total": "1000.00",
+       "amount": "1000.00",
+       "quantity": "1",
+       "vat_code": {
+        "id": 136,
+        "law": "Operazione ai sensi dell'art. 7 ter D.P.R. 633/72 - Reverse Charge",
+        "code": "RC02",
+        "kind": "N2.1",
+        "value": "0.00",
+        "start_date": "2015-01-01",
+        "vat_exempt": false,
+        "description": "0% - Reverse Charge - Art. 7 ter D.P.R. 633/72",
+        "expiration_date": null
+       },
+       "description": "Technical consulting services as Consultant - September 2026",
+       "welfare_applied": false,
+       "enasarco_applied": false,
+       "ex_enpals_applied": false,
+       "bonus_psychologist": false
+      }
+     ],
+     "notes": [
+      "Operazione ai sensi dell'art. 7 ter D.P.R. 633/72 - Reverse Charge",
+      "Operazione effettuata ai sensi dell'art. 7-ter del DPR 633/72.",
+      "Imposta di bollo assolta in modo virtuale"
+     ],
+     "full_id": "1/2026",
+     "computed": {
+      "vatShown": false,
+      "welfarePerc": "0%",
+      "addWelfareRow": false,
+      "quantityShown": false,
+      "currencySymbol": "€",
+      "welfareTaxable": "0.00",
+      "completeRowsTotal": "1000.00",
+      "taxStampApplicable": true,
+      "completeRowsTotalEur": "1000.00",
+      "welfareTaxableWithTaxStamp": "2.00"
+     },
+     "enasarco": null,
+     "all_notes": [
+      "Operazione ai sensi dell'art. 7 ter D.P.R. 633/72 - Reverse Charge",
+      "Operazione effettuata ai sensi dell'art. 7-ter del DPR 633/72.",
+      "Imposta di bollo assolta in modo virtuale"
+     ],
+     "auto_rows": [
+      {
+       "code": "STAMP 2€",
+       "total": "2.00",
+       "amount": "2.00",
+       "quantity": null,
+       "vat_code": {
+        "id": 136,
+        "law": "Operazione ai sensi dell'art. 7 ter D.P.R. 633/72 - Reverse Charge",
+        "code": "RC02",
+        "kind": "N2.1",
+        "value": "0.00",
+        "start_date": "2015-01-01",
+        "vat_exempt": false,
+        "description": "0% - Reverse Charge - Art. 7 ter D.P.R. 633/72",
+        "readable_value": "–",
+        "expiration_date": null
+       },
+       "description": "Marca da bollo"
+      }
+     ],
+     "ex_enpals": {
+      "integrativo": "",
+      "solidarieta": ""
+     },
+     "tax_stamp": "",
+     "user_logo": {},
+     "vat_shown": false,
+     "e_doc_data": {
+      "pec": "",
+      "cig_code": "",
+      "cup_code": "",
+      "typology": "",
+      "send_mode": "CD",
+      "attachments": [],
+      "document_code": "",
+      "recipient_code": "XXXXXXX"
+     },
+     "one_eur_zoh": "1",
+     "custom_notes": [],
+     "invoice_date": "2026-10-13",
+     "invoice_year": 2026,
+     "service_kind": "",
+     "total_amount": "1002.00",
+     "welfare_perc": "0%",
+     "complete_rows": [
+      {
+       "key": "row1",
+       "total": "1000.00",
+       "amount": "1000.00",
+       "quantity": "1",
+       "vat_code": {
+        "id": 136,
+        "law": "Operazione ai sensi dell'art. 7 ter D.P.R. 633/72 - Reverse Charge",
+        "code": "RC02",
+        "kind": "N2.1",
+        "value": "0.00",
+        "start_date": "2015-01-01",
+        "vat_exempt": false,
+        "description": "0% - Reverse Charge - Art. 7 ter D.P.R. 633/72",
+        "expiration_date": null
+       },
+       "description": "Technical consulting services as Consultant - September 2026",
+       "welfare_applied": false,
+       "enasarco_applied": false,
+       "ex_enpals_applied": false
+      }
+     ],
+     "currency_code": "EUR",
+     "enasarco_rate": 0,
+     "fiscal_regime": "Forfettario",
+     "ex_enpals_rate": null,
+     "payment_method": {
+      "id": 4001,
+      "holder": "Test Holder",
+      "method": "Bonifico",
+      "details": "IT00X0000000000000000000000",
+      "details_description": "IBAN"
+     },
+     "quantity_shown": false,
+     "reimbursements": [],
+     "sts_applicable": false,
+     "add_welfare_row": false,
+     "currency_symbol": "€",
+     "welfare_taxable": "0.00",
+     "payment_due_date": null,
+     "sts_invoice_type": "",
+     "total_amount_eur": "1002.00",
+     "vat_code_filters": {
+      "day": "2026-10-13",
+      "document_kind": "INVOICE",
+      "fiscal_regime": "Forfettario"
+     },
+     "add_tax_stamp_row": true,
+     "ex_enpals_applied": false,
+     "no_sts_permission": false,
+     "all_rows_total_eur": "1002.00",
+     "welfare_applicable": false,
+     "add_withholding_tax": false,
+     "complete_rows_total": "1000.00",
+     "ex_enpals_applicable": false,
+     "tax_stamp_applicable": true,
+     "enasarco_invoice_kind": "",
+     "ex_enpals_rate_string": "",
+     "is_valid_invoice_date": true,
+     "reimbursement_vat_code": {
+      "id": 13,
+      "law": "Operazione esclusa - Rimborso spese ex Art. 15 DPR 633/72",
+      "code": "FC15",
+      "kind": "N1",
+      "value": "0.00",
+      "start_date": "2015-01-01",
+      "vat_exempt": true,
+      "description": "0% - Escluso - Rimborsi ex Art. 15",
+      "readable_value": "–",
+      "expiration_date": null
+     },
+     "withholding_tax_forced": false,
+     "complete_rows_total_eur": "1000.00",
+     "withholding_tax_visible": false,
+     "vat_code_choices_filters": {
+      "day": "2026-10-13",
+      "code": "RC02",
+      "document_kind": "INVOICE",
+      "fiscal_regime": "Forfettario"
+     },
+     "add_ex_enpals_contribution": false,
+     "user_welfare_institution_1": "INPS COM",
+     "withholding_tax_applicable": false,
+     "welfare_taxable_with_tax_stamp": "2.00"
+    },
+    "full_id": "1/2026",
+    "counterpart_version_id": 2001,
+    "counterpart_id": 1001,
+    "counterpart_typology": "SOCI",
+    "counterpart_version_display_name": "ACME EUROPE SAS",
+    "invoice_date": "2026-10-13",
+    "invoice_number": 1,
+    "is_e_invoice": true,
+    "is_imported": false,
+    "payment_date": null,
+    "payment_method": 4001,
+    "has_credit_note": false,
+    "can_download_last_sent_xml": true,
+    "status": "DA_INCASSARE",
+    "amount": "1002.00",
+    "e_status": "DELIVERED",
+    "sdi_delivery_forced": false,
+    "e_invoice_sent_date": "2026-10-13",
+    "self_invoice": false,
+    "is_sts": false,
+    "is_enasarco": false,
+    "sts_excluded_reason": null,
+    "vat_ateco": "70.20.09",
+    "sts_sent_date": null,
+    "sts_forced_date": null
+   }
+  ],
+  "pages": 1,
+  "page": 1
+ }
+}

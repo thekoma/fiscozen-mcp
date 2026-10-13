@@ -1,0 +1,17 @@
+{
+ "response": [
+  {
+   "id": 136,
+   "code": "RC02",
+   "description": "0% - Reverse Charge - Art. 7 ter D.P.R. 633/72",
+   "customer_description": "Per servizi forniti a soggetti con PIVA UE o EXTRA UE (compreso Vaticano e San Marino).",
+   "law": "Operazione ai sensi dell'art. 7 ter D.P.R. 633/72 - Reverse Charge",
+   "value": "0.00",
+   "kind": "N2.1",
+   "start_date": "2015-01-01",
+   "expiration_date": null,
+   "vat_exempt": false,
+   "readable_value": "–"
+  }
+ ]
+}

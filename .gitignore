@@ -1,0 +1,19 @@
+# Raw browser captures: contain session cookies and personal data
+captures/
+# Local secrets and cached Fiscozen session
+.env
+.env.*
+*.session.json
+session.json
+.session-*
+# Python / uv
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+# OS
+.DS_Store
